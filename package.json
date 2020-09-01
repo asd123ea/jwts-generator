@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "njwt": "^0.4.0",
+    "njwt": "^1.0.0",
     "uuid-v4": "^0.1.0",
     "uuidv4": "^6.1.0"
   },
